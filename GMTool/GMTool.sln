@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSZ.GMTool.CommandLine", "TSZ.GMTool.Console\TSZ.GMTool.CommandLine.csproj", "{5E903046-5E1F-4165-AC9B-1174694D474B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E903046-5E1F-4165-AC9B-1174694D474B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E903046-5E1F-4165-AC9B-1174694D474B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E903046-5E1F-4165-AC9B-1174694D474B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E903046-5E1F-4165-AC9B-1174694D474B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C73BFCA-0ACE-4D99-8E84-BB903B9B4FA2}
+	EndGlobalSection
+EndGlobal
